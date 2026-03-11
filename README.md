@@ -700,17 +700,6 @@ Actual time depends on the target size and which stages are enabled.
 - gowitness screenshot capture
 - CDN detection (Cloudflare, Fastly, Akamai)
 - SQLite scan history
-
-### v2.0
-- Pause and Resume support
-- Proxy integration (Burp, SOCKS5, Tor)
-- JSON output format
-- Per-tool analysis output
-
-### v1.0
-- Initial 8-stage pipeline
-- HTML and PDF report generation
-
 ---
 
 ## Contributing
